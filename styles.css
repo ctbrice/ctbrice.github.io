@@ -5,10 +5,15 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: darkred;
     color: white;
     padding: 20px;
     text-align: center;
+}
+
+img.me {
+    height: 50%;
+    width: 50%;
 }
 
 nav ul {
@@ -37,7 +42,7 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #333;
+    background-color: darkred;
     color: white;
 }
 
