@@ -12,8 +12,8 @@ header {
 }
 
 img.me {
-    max-height: 25%;
-    max-width: 25%;
+    height: 25%;
+    width: 25%;
 }
 
 nav ul {
